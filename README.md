@@ -13,14 +13,14 @@ CPI: Consumer price index
 Unemployment: Unemployment rate
 
 ## Clean the data first:
-Data is sorted first by store number (ascending) and second by date (ascending)
-Date is in the format MM-DD-YYYY
-Weekly Sales is rounded to the nearest 2 decimal places
-Temperature is rounded to the nearest whole number
-Fuel Price is rounded to the nearest 2 decimal places
-CPI is rounded to the nearest 3 decimal places
-Unemployment is rounded to the nearest 3 decimal places
-Ensure that there is no missing data
+Data is sorted first by store number (ascending) and second by date (ascending)  
+Date is in the format MM-DD-YYYY  
+Weekly Sales is rounded to the nearest 2 decimal places  
+Temperature is rounded to the nearest whole number  
+Fuel Price is rounded to the nearest 2 decimal places  
+CPI is rounded to the nearest 3 decimal places  
+Unemployment is rounded to the nearest 3 decimal places  
+Ensure that there is no missing data  
 
 ## Business Questions:
 Which holidays affect weekly sales the most?
