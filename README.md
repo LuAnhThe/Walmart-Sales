@@ -23,7 +23,7 @@ Unemployment is rounded to the nearest 3 decimal places
 Ensure that there is no missing data  
 
 ## Business Questions:
-Which holidays affect weekly sales the most?
-Which stores in the dataset have the lowest and highest unemployment rate? What factors do you think are impacting the unemployment rate?
-Is there any correlation between CPI and Weekly Sales? How does the correlation differ when the Holiday Flag is 0 versus when the Holiday Flag is 1?
-Why do you think Fuel Price is included in this dataset? What conclusions can be made about Fuel Price compared to any of the other fields?
+Which holidays affect weekly sales the most?  
+Which stores in the dataset have the lowest and highest unemployment rates? What factors do you think are impacting the unemployment rate?  
+Is there any correlation between CPI and Weekly Sales? How does the correlation differ when the Holiday Flag is 0 versus when the Holiday Flag is 1?  
+Why do you think Fuel Price is included in this dataset? What conclusions can be drawn about fuel prices compared to other fields?  
